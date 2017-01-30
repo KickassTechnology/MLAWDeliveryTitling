@@ -1,0 +1,10 @@
+C:\Users\Joe\documents\visual studio 2012\Projects\AutocadPlugins1\AutocadPlugins1\bin\Debug\AutocadPlugins1.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\AutocadPlugins1\AutocadPlugins1\bin\Debug\AutocadPlugins1.pdb
+C:\Users\Joe\documents\visual studio 2012\Projects\AutocadPlugins1\AutocadPlugins1\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\AutocadPlugins1\AutocadPlugins1\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\Joe\documents\visual studio 2012\Projects\AutocadPlugins1\AutocadPlugins1\obj\Debug\AutocadPlugins1.Delivery.resources
+C:\Users\Joe\documents\visual studio 2012\Projects\AutocadPlugins1\AutocadPlugins1\obj\Debug\AutocadPlugins1.MyCommands.resources
+C:\Users\Joe\documents\visual studio 2012\Projects\AutocadPlugins1\AutocadPlugins1\obj\Debug\AutocadPlugins1.csproj.GenerateResource.Cache
+C:\Users\Joe\documents\visual studio 2012\Projects\AutocadPlugins1\AutocadPlugins1\obj\Debug\AutocadPlugins1.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\AutocadPlugins1\AutocadPlugins1\obj\Debug\AutocadPlugins1.pdb
+C:\Users\Joe\documents\visual studio 2012\Projects\AutocadPlugins1\AutocadPlugins1\obj\Debug\AutocadPlugins1.csprojResolveAssemblyReference.cache
